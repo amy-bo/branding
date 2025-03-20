@@ -9,4 +9,4 @@ Clear space ensures our logo remains visually distinct, prevents clutter, and ma
 ## Why wasn't clear space added to the SVGs?
 Often organisations requesting logos add clear space themselves (example: https://www.ibioic.com/about/#industry-members).
 ## What if I need something different?
-Raise [an issue](https://github.com/amy-bo/branding/issues) and if it's urgent reach out to [Martin](https://amy.bo/martin-links).
+Raise [an issue](https://github.com/amy-bo/branding/issues) and if it's urgent reach out to [Martin](https://amy.bo/Martin-links).
