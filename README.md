@@ -16,7 +16,7 @@ Often organisations requesting logos add clear space themselves (example: https:
 ## Fonts
 [Montserrat](https://github.com/JulietaUla/Montserrat) Semibold is used in both the logo and printed strap line, but downloading fonts increases website carbon footprint, so system fonts (font-family: Arial, sans-serif;) are preferred for web use.
 ## Banners 
-Various [digital banners](Digital%20Banners) have been made to the specifications of conference organisers social media platforms, etc.
-A [pop-up roller banner](Physical%20Collateral/Pop-up%20Roller%20Banner) for UK conferences is currently stored in [Martin's](https://amy.bo/Martin-links) studio.
+Various [digital banners](Other%20branding/Digital%20Banners) have been made to the specifications of conference organisers social media platforms, etc.
+A [pop-up roller banner](Other%20branding/Physical%20Collateral/Pop-up%20Roller%20Banner) for UK conferences is currently stored in [Martin's](https://amy.bo/Martin-links) studio.
 ## What if I need something different?
 Raise [an issue](https://github.com/amy-bo/branding/issues) and if it's urgent reach out to [Martin](https://amy.bo/Martin-links).
