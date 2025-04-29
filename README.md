@@ -9,7 +9,7 @@ for black backgrounds, or
 
 <img src="Logos/AMYBO logo - black for very light backgrounds.svg" style="width:20%;" alt="Logo for white backgrounds">
 
-for white backgrounds, and ensure they get at least as much clear space as the "with clear space.png" logos.  All is explained in the [Logos README](Logos/README.md)
+for white backgrounds, and ensure they get at least as much clear space as the ["with clear space.png"](Logos/AMYBO%20logo%20-%20black%20on%20white%20with%20clear%20space.png) logos.  All is explained in the [Logos README](Logos/README.md)
 ## Colours
 - black #000
 - blue #008BD2
