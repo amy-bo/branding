@@ -10,7 +10,7 @@ Where possible use the appropriate vector (.svg) logo [for white backgrounds](Lo
 [Montserrat](https://github.com/JulietaUla/Montserrat) Semibold is used in both the logo and printed strap line, but downloading fonts increases website carbon footprint, so system fonts (font-family: Arial, sans-serif;) are preferred for web use.
 ## Strapline
 <span style="color:#008BD2">Sustainable Protein for</span> <span style="#87BD25">All</span> 
-- colour Sustainable Protein for #008BD2 and All #87BD25.
+- colour Sustainable Protein for #008BD2 and All #87BD25: `<span style="color:#008BD2">Sustainable Protein for</span> <span style="#87BD25">All</span>`
 - use font-family: Arial, sans-serif; for web or [Montserrat](https://github.com/JulietaUla/Montserrat) for print/PDF (with embedded fonts).
 ## Banners 
 Various [digital banners](Other%20branding/Digital%20Banners) have been made to the specifications of conference organisers social media platforms, etc.
