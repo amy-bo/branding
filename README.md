@@ -12,10 +12,12 @@ Where possible use the appropriate vector (.svg) logo [for white backgrounds](Lo
 <span style="color:#008BD2">Sustainable Protein for</span> <span style="#87BD25">All</span> 
 - colour Sustainable Protein for #008BD2 and All #87BD25
 - use font-family: Arial, sans-serif; for web or [Montserrat](https://github.com/JulietaUla/Montserrat) for print/PDF (with embedded fonts).
-`<span style="font-family:Arial, sans-serif;">
+
+```html
+<span style="font-family:Arial, sans-serif;">
   <span style="color:#008BD2;">Sustainable Protein for</span>
   <span style="color:#87BD25;"> All</span>
-</span>`
+</span>
 ## Banners 
 Various [digital banners](Other%20branding/Digital%20Banners) have been made to the specifications of conference organisers social media platforms, etc.
 A [pop-up roller banner](Other%20branding/Physical%20Collateral/Pop-up%20Roller%20Banner) for UK conferences is currently stored in [Martin's](https://amy.bo/Martin-links) studio.
