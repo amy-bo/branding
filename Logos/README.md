@@ -5,7 +5,7 @@ Where possible use the appropriate vector (.svg) logo:
 
 [for white backgrounds](AMYBO%20logo%20-%20black%20for%20very%20light%20backgrounds.svg) or
 
-<img src="AMYBO logo - black for very dark backgrounds.svg" style="width:20%;" alt="Logo for black backgrounds">
+<img src="AMYBO logo - white for very dark backgrounds.svg" style="width:20%;" alt="Logo for black backgrounds">
 
 and ensure they get at least as much clear space as the "with clear space.png" logos.
 ### Why are SVGs best?
