@@ -14,4 +14,4 @@ Smaller files = lower carbon.
 ### Why is clear space required?
 Clear space ensures our logo remains visually distinct, prevents clutter, and maintains its impact by avoiding interference from other elements.
 ### Why wasn't clear space added to the SVGs?
-Often organisations requesting logos add clear space themselves (example: https://www.ibioic.com/about/#industry-members).
+Often organisations requesting logos add clear space themselves - if we add extra clear space it only makes our logo look small compared with orgs that don't (example: https://www.ibioic.com/about/#industry-members).
