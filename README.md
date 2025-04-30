@@ -31,5 +31,7 @@ for white backgrounds, and ensure they get at least as much clear space as the [
 ## Banners 
 Various [digital banners](Other%20branding/Digital%20Banners) have been made to the specifications of conference organisers social media platforms, etc.
 A [pop-up roller banner](Other%20branding/Physical%20Collateral/Pop-up%20Roller%20Banner) for UK conferences is currently stored in [Martin's](https://amy.bo/Martin-links) studio.
+## Photos
+We also have various photos for use with AMYBO projects in the [photos folder](Other%20branding/Photos).
 ## What if I need something different?
 Raise [an issue](https://github.com/amy-bo/branding/issues) and if it's urgent reach out to [Martin](https://amy.bo/Martin-links).
