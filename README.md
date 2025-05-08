@@ -33,5 +33,8 @@ Various [digital banners](Other%20branding/Digital%20Banners) have been made to 
 A [pop-up roller banner](Other%20branding/Physical%20Collateral/Pop-up%20Roller%20Banner) for UK conferences is currently stored in [Martin's](https://amy.bo/Martin-links) studio.
 ## Photos
 We also have various photos for use with AMYBO projects in the [photos folder](Other%20branding/Photos) - please downsize appropriately for online use to minimise carbon footprint.
+## Website
+[amy.bo](https://amy.bo) currently redirects to [amybo.org](https://amybo.org)
+The website will soon be transitioning from Hugo to Astro, the design is being [wireframed on Figma](https://www.figma.com/design/WFobqScCnK3KAXzl2dpiMp/AMYBO?node-id=0-1&t=4VA0FJBiita2qoZT-1) and [discussed in the forum](https://forum.amybo.org/t/website-refresh/132)
 ## What if I need something different?
 Raise [an issue](https://github.com/amy-bo/branding/issues) and if it's urgent reach out to [Martin](https://amy.bo/Martin-links).
